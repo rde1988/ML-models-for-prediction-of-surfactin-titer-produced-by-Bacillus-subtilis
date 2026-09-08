@@ -3,7 +3,7 @@ Python/Jupyter Notebooks associated with the manuscript on machine learning-assi
 
 ## Notebooks
 
-1. MVLSR-Ridge regression model training and validation using nested LOOCV
-2. SVR model training and validation using nested LOOCV
-3. RF model training and validation using nested LOOCV
-4. GPR model training and validation using nested LOOCV, generation of 2D and 3D mean response surface plots, optimization of the surfactin titer using a metaheuristic optimizer
+1. MVLSR-Ridge regression model training and validation using nested LOOCV (MVLSR_Ridge.ipynb)
+2. SVR model training and validation using nested LOOCV (SVR.ipnyb)
+3. RF model training and validation using nested LOOCV (RF.ipnyb)
+4. GPR model training and validation using nested LOOCV, optimization of the surfactin titer using a metaheuristic optimizer, GPR mean, and prediction of standard deviation on futuristic sample points (GPR.ipnyb)
